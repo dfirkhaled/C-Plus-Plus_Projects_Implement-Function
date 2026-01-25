@@ -28,3 +28,4 @@ string Reverse(string Word, bool Sp_Del = false) {
 int main() {
     cout << Reverse("Your Word!", true);
 }
+
