@@ -24,4 +24,5 @@ int Count(char Sub_String, string String) {
 
 // int main() {
 //     Count('Your Char', "Your String");
+
 // }
